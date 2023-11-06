@@ -2,4 +2,4 @@
 ## Construção:
 - Passo 1: Criar um repositorio no github com o nome de api.
 - Passo 2: Criar um projeto maven em springboot 3.0.0 com a linguagem java 17 e empacotando en jar.
-Com as seguintes dependencias: Spring Web e Lombok. 
+Com as seguintes dependencias: Spring Web, Spring Boot Devtools e Lombok. 
