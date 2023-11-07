@@ -9,6 +9,6 @@ Com as seguintes dependencias: Spring Web, Spring Boot Devtools, Lombok Validati
   <pre>
   spring.datasource.url=jdbc:mysql://localhost/vollmed_api
   spring.datasource.username=root
-  spring.datasource.password=@Dani1981
-  </pre>>
+  spring.datasource.password=root
+  </pre>
 
